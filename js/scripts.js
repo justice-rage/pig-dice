@@ -10,8 +10,9 @@ let dice = {
   }
 }
 
-// Starting Score: player 1 score = 0
-// Starting Score: player 2 score = 0
-
+// Player Constructor
+function Player(score) {
+  this.score = 0;
+}
 
 // user interface logic
