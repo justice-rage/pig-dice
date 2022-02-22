@@ -1,3 +1,4 @@
+`strict mode`;
 // business logic
 
 // Game - constructor
